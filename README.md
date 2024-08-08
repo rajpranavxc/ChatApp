@@ -1,6 +1,6 @@
 # ChatApp
 
-A Chatting Service App made in **React** that allows users to have a **realtime** text chatting experience. Users are required to Signup/Signin using their **email** and **password**. The app provides **simple and easy-to-use UI**. The database and authentication are handled using **Firebase**.
+A Chatting Service App made in **React** that allows the users to have a **realtime** text chatting experience. Users are required to Signup/Signin using their **email** and **password**. The app provides **simple and easy-to-use UI**. The database and authentication are handled using **Firebase**.
 
 ### **System Design Document** : [View Document](https://drive.google.com/file/d/1hSjbE_LiLPNa9FsGJgNTa2gyI2mh1tfU/view?usp=sharing)
 
